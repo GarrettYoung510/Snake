@@ -12,8 +12,7 @@ Built as a refresher on manipulating time in javascript
 ## Challenges
 
 * Making the snake grow and go faster
-* A LOT of testing 
-* I kept working on it and did not commit as often as I should have
+* Making the snake go in specific directions (array with replacing the head dot in a certain direction)
 
 ## Next Steps
 
