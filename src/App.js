@@ -134,7 +134,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1 id="title">Snake Game (Arrow Keys for Movement)</h1>
+        <h1 id="title">Snake Game</h1>
+        <h2 id="title">Arrow Keys for Movement</h2>
         <div className="game-area">
           <Snake snakeDots={this.state.snakeDots} />
           <Food dot={this.state.food} />
