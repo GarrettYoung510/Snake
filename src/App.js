@@ -136,6 +136,7 @@ class App extends Component {
       <div>
         <h1 id="title">Snake Game</h1>
         <h2 id="title">Arrow Keys for Movement</h2>
+        <h2 id="title">Grows and Speeds Up with Food</h2>
         <div className="game-area">
           <Snake snakeDots={this.state.snakeDots} />
           <Food dot={this.state.food} />
