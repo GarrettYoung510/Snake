@@ -18,12 +18,12 @@
   position: absolute;
   width: 2%;
   height: 2%;
-  background-color: red;
+  background-color: #99ff66;
   border: 1px solid #fff;
   z-index: 1;
 }
 
-#title {
+#title, #instructions {
   position: relative;
   text-align: center;
 }
